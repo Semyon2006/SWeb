@@ -1,0 +1,22 @@
+.H1 {
+	font-family: "Source Code Pro Black";
+	color: white;
+	font-weight: bold;
+	font-size: xxx-large;
+}
+
+.Image-place-1 {
+	position: relative;
+	top: 50px;
+	border: 5px solid green;
+	border-radius: 35px;
+}
+
+html {
+	background-image: url(Images/Fon-pages.jpg);
+}
+
+.Pad {
+	padding: 15px;
+}
+
